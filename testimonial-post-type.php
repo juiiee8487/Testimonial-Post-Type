@@ -18,7 +18,7 @@
  * Description:       Create a Testimonial post types, it's Taxonomy & Tags with Slider Shortcode.
  * Version:           1.1
  * Author:            Elsner Technologies Pvt. Ltd.
- * Author URI:        http://www.elsner.com
+ * Author URI:        https://juhipatel.me/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       testimonial-post-type

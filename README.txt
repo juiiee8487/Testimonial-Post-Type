@@ -1,6 +1,6 @@
 === Testimonial Post type ===
-Contributors: juiiee8487, kadiwala
-Donate link: https://www.elsner.com
+Contributors: juiiee8487
+Donate link: https://juhipatel.me/
 Tags: testimonials, testimonial-slider, testimonial, testimonial-slider-shortcode
 Requires at least: 3.0.1
 Tested up to: 5.1.1
